@@ -1,6 +1,6 @@
 <h1 align="center">**Supermarket:**</h1>
 
-**Technology:** Java, IntelliJ
+<h3>**Technology:**</h3> Java, IntelliJ
 
 **Goal:** The goal is to apply the fundamental of OOP such as
 inheritance , Polymorphism , Encapsulation and Abstraction , and also to
