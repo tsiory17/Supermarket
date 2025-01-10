@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Supermarket Management System</strong></h1>
 
-## Table of Contents- [Technology](#technology) - [Goal](#goal) - [Functionalities](#functionalities) - [UML Diagram](#uml-diagram)
+
 ## Table of Contents
 - [Technology](#technology)  
 - [Goal](#goal)  
