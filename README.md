@@ -1,4 +1,4 @@
-**Supermarket:**
+<h1 align="center">**Supermarket:**</h1>
 
 **Technology:** Java, IntelliJ
 
