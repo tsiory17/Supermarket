@@ -124,7 +124,7 @@ style="width:3.72778in;height:1.29097in" />
 <img src="./media/image10.png"
 style="width:2.56944in;height:1.19653in" />
 
-**UML Diagram for the project:**
+<h3>:computer:<strong>UML Diagram</strong></h3>
 
 The diagram shows the different relationship between the different
 classes in the application
