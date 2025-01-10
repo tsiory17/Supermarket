@@ -8,7 +8,10 @@
 - [UML Diagram](#uml-diagram)
 
 
-<h3>:computer:<strong>Technology</strong></h3> ## Java, IntelliJ IDEA
+<h3>:computer:<strong>Technology</strong></h3> 
+
+- **Java**
+- **IntelliJ IDEA**
 
 <h3><strong>Goal</strong></h3> The goal of the application supermarket is to apply the fundamental of OOP such as
 inheritance , Polymorphism , Encapsulation and Abstraction , and also to
