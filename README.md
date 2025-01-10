@@ -31,7 +31,7 @@ Builder Design pattern.
 
 Functions:
 
-1-Buy items from suppliers:
+**1-Buy items from suppliers:**
 
 Different product can be purchased by the client from the supplier. To
 choose the product, the client will select the product by entering its
