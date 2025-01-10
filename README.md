@@ -1,11 +1,12 @@
-<h1 align="center">**Supermarket:**</h1>
+<h1 align="center"><strong>Supermarket</strong></h1>
 
-<h3>**Technology:**</h3> Java, IntelliJ
+<h3><strong>Technology</strong></h3> Java, IntelliJ
 
-**Goal:** The goal is to apply the fundamental of OOP such as
+<h3><strong>Goal</strong></h3> The goal of the application supermarket is to apply the fundamental of OOP such as
 inheritance , Polymorphism , Encapsulation and Abstraction , and also to
 use the concept of design pattern in the code
 
+<h3><strong>Functionalities</strong></h3> 
 The dummy client will have an initial budget of 100000\$ to manage his
 supermarket
 
